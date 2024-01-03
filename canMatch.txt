@@ -1,0 +1,4 @@
+* canMatch vs canLoad
+    * canLoad not work with standalone
+    * canLoad work with module
+* using in same path
